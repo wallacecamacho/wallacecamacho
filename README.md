@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# Wallace Camacho from Brazil 🇧🇷
+# Wallace Camacho
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-camacho/)](https://www.linkedin.com/in/cristina-d)
+So, contact me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-camacho/)](https://www.linkedin.com/in/wallace-camacho/)
 
 
 <!--
